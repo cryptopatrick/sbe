@@ -8,7 +8,7 @@ documentation = "https://docs.rs/rexdna"
 homepage = "https://github.com/cryptopatrick/rexdna"
 repository = "https://github.com/cryptopatrick/rexdna"
 readme = "README.md"
-keywords = ["dna", "regexp", "regular expressions", "utility"]
+keywords = ["dna", "regexp", "regular", "expressions", "utility"]
 license = "Unlicense/MIT"
 autotests = false
 
