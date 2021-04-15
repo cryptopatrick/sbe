@@ -9,7 +9,7 @@ homepage = "https://github.com/cryptopatrick/rexdna"
 repository = "https://github.com/cryptopatrick/rexdna"
 readme = "README.md"
 keywords = ["dna", "regexp", "regular expressions", "utility"]
-license = "MIT"
+license = "Unlicense/MIT"
 autotests = false
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
