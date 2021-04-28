@@ -1,14 +1,14 @@
 [package]
-name = "rexdna"
+name = "sbe"
 version = "0.0.1"
-authors = ["CryptoPatrick <cryptopatrick@gmail.com>"]
+authors = ["cryptopatrick <cryptopatrick@gmail.com>"]
 edition = "2018"
-description = "Regular Expressions optimized for DNA."
-documentation = "https://docs.rs/rexdna"
-homepage = "https://github.com/cryptopatrick/rexdna"
-repository = "https://github.com/cryptopatrick/rexdna"
+description = "Simple Binary Encoding (SBE)"
+documentation = "https://docs.rs/sbe"
+homepage = "https://github.com/cryptopatrick/sbe"
+repository = "https://github.com/cryptopatrick/sbe"
 readme = "README.md"
-keywords = ["dna", "regexp", "regular", "expressions", "utility"]
+keywords = ["sbe", "binary", "encoding", "messaging", "fix"]
 license = "Unlicense/MIT"
 autotests = false
 

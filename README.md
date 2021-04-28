@@ -1,3 +1,3 @@
-rexdna
+SBE
 ======
-Regular Expressions optimized for DNA.
+Simple Binary Encoding (SBE) implemented in Rust.
