@@ -1,14 +1,14 @@
 [package]
-name = "sbe"
+name = "radar"
 version = "0.0.1"
 authors = ["cryptopatrick <cryptopatrick@gmail.com>"]
 edition = "2018"
-description = "Simple Binary Encoding (SBE)"
+description = "Rust library for working with radar data formats."
 documentation = "https://docs.rs/sbe"
-homepage = "https://github.com/cryptopatrick/sbe"
-repository = "https://github.com/cryptopatrick/sbe"
+homepage = "https://github.com/cryptopatrick/radar"
+repository = "https://github.com/cryptopatrick/radar"
 readme = "README.md"
-keywords = ["sbe", "binary", "encoding", "messaging", "fix"]
+keywords = ["radar", "encoding", "decoding"]
 license = "Unlicense/MIT"
 autotests = false
 

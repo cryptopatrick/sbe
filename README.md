@@ -1,3 +1,3 @@
-SBE
+radar
 ======
-Simple Binary Encoding (SBE) implemented in Rust.
+Rust library for working with radar data formats.
