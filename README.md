@@ -1,3 +1,1 @@
-radar
-======
-Rust library for working with radar data formats.
+Rust library for working with Simple Binary Encoding data.

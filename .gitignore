@@ -1,2 +1,4 @@
-/target
+/targets
+targets/s
 Cargo.lock
+.DS_STORE
