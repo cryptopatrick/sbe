@@ -1,17 +1,3 @@
-/*
-TODO
-+ Fixed-length headers
-+ Schema versioning
-+ Optional fields using presence bits
-+ Groups and repeating fields
-+ Little-endian encoding, alignment, and padding
-*/
-
-pub mod encoder;
-pub mod decoder;
-pub mod types;
-
-
 #[cfg(test)]
 mod tests {
     use super::encoder::encode_order;
